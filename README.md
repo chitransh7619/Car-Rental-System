@@ -26,32 +26,6 @@ The **Car Pool Management System** is a robust and user-friendly application dev
 - `createRide.cpp`: Allows users to create new car pool rides.
 - `adminstrator.cpp`: Administrative interface for system management.
 
-### Header Files
-
-- `log_in.h`
-- `Sign_In.h`
-- `clickableLabel.h`
-- `updateProfile.h`
-- `findRidePage.h`
-- `mainScreen.h`
-- `reserveCar.h`
-- `createRide.h`
-- `adminstrator.h`
-
-### UI Files
-
-- `log_in.ui`: Login interface design.
-- `Sign_In.ui`: Sign-up interface design.
-- `mainScreen.ui`: Main dashboard design.
-- `updateProfile.ui`: User profile update interface.
-- `findRidePage.ui`: Interface for finding rides.
-- `reserveCar.ui`: Car reservation interface.
-- `createRide.ui`: Ride creation interface.
-- `adminstrator.ui`: Admin panel interface.
-
-### Resources
-
-- `images.qrc`: Resource file containing images and other assets.
 
 ## Getting Started
 
