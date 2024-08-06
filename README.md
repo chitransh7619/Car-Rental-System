@@ -1,4 +1,4 @@
-# Car Pool Management System
+# Car Rental System
 
 ## Overview
 
