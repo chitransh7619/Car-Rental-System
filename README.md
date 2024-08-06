@@ -1,8 +1,10 @@
 # Car Rental System
 
+<img src = "https://github.com/chitransh7619/Car-Rental-System/blob/main/presentation.gif" width = "800px" />
+
 ## Overview
 
-The **Car Pool Management System** is a robust and user-friendly application developed using C++ and the Qt framework. This application is designed to streamline the process of car pooling, offering users an intuitive interface for logging in, signing up, finding rides, reserving cars, and managing rides. It also includes administrative functionalities for managing user profiles and system settings.
+The **Car Rental Management System** is a robust and user-friendly application developed using C++ and the Qt framework. This application is designed to streamline the process of car pooling, offering users an intuitive interface for logging in, signing up, finding rides, reserving cars, and managing rides. It also includes administrative functionalities for managing user profiles and system settings.
 
 ## Features
 
@@ -35,9 +37,4 @@ The **Car Pool Management System** is a robust and user-friendly application dev
 - C++ compiler (e.g., GCC, MSVC)
 - Qt Creator or Visual Studio Code with Qt extensions
 
-### Building the Project
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-repo/car_pool.git](https://github.com/chitransh7619/Car-Rental-System.git
-   cd Car-Rental-System
